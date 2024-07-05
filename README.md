@@ -1,7 +1,5 @@
 # Brain-Tumor-Classification
-## Members
-[Naman Birla](mailto:naman22310@iiitd.ac.in)<br/>
-[Mohmmad Ayaan](mailto:ayaan22302@iiitd.ac.in)<br/>
+
 
 ## Introduction 
 A brain tumour refers to a discrete accumulation of cells in the brain, classified as benign or malignant, that pose a serious health risk due to their ability to raise intracranial pressure. Importance cannot be. Stated that the importance of early detection and accurate classification of brain tumours is not excessive. This is learned as a process of this compulsive responsibility for the interconnectedness of a cell to be seen by the brain's responsibility, classification, and locality. -taking advantage of the copy, the research process is well structured. Strives to do so, facilitating faster and more accurate clinical interventions to improve patient outcomes.
